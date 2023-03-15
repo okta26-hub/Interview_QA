@@ -32,12 +32,13 @@ Job Desk Team :
 
 Okta Reza Pratama
 
-Test Case : Kalkulator Faktorial
-Testing : Manual & Automation
-Video Automation : https://drive.google.com/file/d/1GD4T--9pUUStK7MvEa7wmtlcMHOGD0H6/view?usp=sharing
-
+Test Case : Kalkulator Faktorial<br>
+Testing : Manual & Automation<br>
+Video Automation : https://drive.google.com/file/d/1GD4T--9pUUStK7MvEa7wmtlcMHOGD0H6/view?usp=sharing<br>
+<br>
 3. Answer Link No. 3 : https://docs.google.com/document/d/11Emr3tBgibAQnjc4EKYu7SFdrXKLF_6RsAjWCNWeTmc/edit?usp=sharing
-
+<br>
 4. Answer Link No. 4 : https://docs.google.com/document/d/1hGL8k5xYjOrE_RdioQhfJ7Lc1PD6UwsHKsNxmz8VTSo/edit?usp=sharing
-
+<br>
 5. Answer link No. 5 : https://drive.google.com/file/d/1_BvxR37C7qscQtL0qP36g4EKFRmkYOyI/view?usp=share_link
+<br>
