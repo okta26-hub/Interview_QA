@@ -6,7 +6,7 @@ Okta Reza Pratama
 
 Introduction Myself : https://drive.google.com/file/d/1Hm__Auph4S71OhMWATRyP-F7db67QOxu/view?usp=share_link
 
-Question Answer<br>
+Question Answer
 
 1. A & B. URL to Test: https://qa.putraprima.id/
 <br>
