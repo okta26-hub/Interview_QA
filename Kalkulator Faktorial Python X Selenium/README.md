@@ -8,4 +8,6 @@ Negative Test Case With Code: TC_4, TC_6, TC_7, TC_8, TC_9, TC_13, TC_14
 
 2.Video Automation : https://drive.google.com/file/d/1GD4T--9pUUStK7MvEa7wmtlcMHOGD0H6/view?usp=sharing
 
-3.Thank You
+3.Each test case has validation according to POM
+
+4. Thank You
