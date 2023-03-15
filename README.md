@@ -11,7 +11,6 @@ Question Answer<br>
 <br>
 URL to Test: https://qa.putraprima.id/<br>
 Test Case : https://docs.google.com/spreadsheets/d/1k7dVY59nlkKaXIwIqO9h0Gb7j0D3WG4Tpr4S6Jh8rKw/edit?usp=share_link<br>
-<br>
 1.C & D.
 <br>
 Bug Reporting : https://docs.google.com/document/d/1rLGGYKPtBLRIuSugaD9ioRw7T3lMHpoJY_HlS6mgo2Y/edit?usp=sharing<br>
