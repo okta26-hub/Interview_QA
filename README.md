@@ -7,14 +7,13 @@ Okta Reza Pratama
 Introduction Myself : https://drive.google.com/file/d/1Hm__Auph4S71OhMWATRyP-F7db67QOxu/view?usp=share_link
 
 Question Answer<br>
-<br>
-1. A & B. 
-<br>
-URL to Test: https://qa.putraprima.id/
+
+1. A & B. URL to Test: https://qa.putraprima.id/
 <br>
 Test Case : https://docs.google.com/spreadsheets/d/1k7dVY59nlkKaXIwIqO9h0Gb7j0D3WG4Tpr4S6Jh8rKw/edit?usp=share_link
 <br>
 1. C & D.
+<br>
 <br>
 Bug Reporting : https://docs.google.com/document/d/1rLGGYKPtBLRIuSugaD9ioRw7T3lMHpoJY_HlS6mgo2Y/edit?usp=sharing<br>
 
