@@ -17,7 +17,7 @@ Bug Reporting : https://docs.google.com/document/d/1rLGGYKPtBLRIuSugaD9ioRw7T3lM
 
 2.Url Github : https://github.com/okta26-hub/Interview_QA/
 
-Automation Used:
+Automation Used:<br>
 *Selenium
 *Phyton
 
